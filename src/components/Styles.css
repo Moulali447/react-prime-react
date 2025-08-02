@@ -1,0 +1,10 @@
+.header-bg-color {
+  background-color: var(--pink-600);
+  color: var(--green-500);
+}
+.app-footer {
+  background-color: var(--bluegray-500);
+}
+.p-menubar .p-menuitem-link {
+  color: white !important;
+}
